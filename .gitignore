@@ -1,0 +1,127 @@
+
+Builds/VisualStudio2017/.vs/ReversedDelay/v15/.suo
+Builds/VisualStudio2017/.vs/ReversedDelay/v15/Browse.VC.db
+Builds/VisualStudio2017/.vs/ReversedDelay/v15/ipch/AutoPCH/3559cec2aa53b785/PLUGINEDITOR.ipch
+Builds/VisualStudio2017/.vs/ReversedDelay/v15/ipch/AutoPCH/469a6c3747ad3203/INCLUDE_JUCE_AUDIO_PLUGIN_CLIENT_VST3.ipch
+Builds/VisualStudio2017/.vs/ReversedDelay/v15/ipch/AutoPCH/b5751d0f54dab602/INCLUDE_JUCE_AUDIO_PROCESSORS.ipch
+Builds/VisualStudio2017/.vs/ReversedDelay/v15/ipch/AutoPCH/f4f10b02f1788f22/PLUGINPROCESSOR.ipch
+Builds/VisualStudio2017/.vs/ReversedDelay/v15/Solution.VC.db
+Builds/VisualStudio2017/resources.rc
+Builds/VisualStudio2017/ReversedDelay.sln
+Builds/VisualStudio2017/ReversedDelay_SharedCode.vcxproj
+Builds/VisualStudio2017/ReversedDelay_SharedCode.vcxproj.filters
+Builds/VisualStudio2017/ReversedDelay_SharedCode.vcxproj.user
+Builds/VisualStudio2017/ReversedDelay_StandalonePlugin.vcxproj
+Builds/VisualStudio2017/ReversedDelay_StandalonePlugin.vcxproj.filters
+Builds/VisualStudio2017/ReversedDelay_VST3.vcxproj
+Builds/VisualStudio2017/ReversedDelay_VST3.vcxproj.filters
+Builds/VisualStudio2017/ReversedDelay_VST3.vcxproj.user
+Builds/VisualStudio2017/ReversedDelay_VST3ManifestHelper.vcxproj
+Builds/VisualStudio2017/ReversedDelay_VST3ManifestHelper.vcxproj.filters
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_basics.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_devices.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_formats.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_plugin_client_ARA.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_processors.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_processors_ara.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_processors_lv2_libs.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_utils.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_core.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_data_structures.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_events.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_graphics.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_gui_basics.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_gui_extra.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/PluginEditor.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/PluginProcessor.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/Reversed.B0BA2BED.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/Reversed.B0BA2BED.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/Reversed.B0BA2BED.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/Reversed.B0BA2BED.tlog/Lib-link.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/Reversed.B0BA2BED.tlog/Lib-link.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/Reversed.B0BA2BED.tlog/Lib.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/Reversed.B0BA2BED.tlog/ReversedDelay_SharedCode.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/Shared Code/ReversedDelay.lib
+Builds/VisualStudio2017/x64/Debug/Shared Code/ReversedDelay.pdb
+Builds/VisualStudio2017/x64/Debug/Shared Code/ReversedDelay_SharedCode.log
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/juce_vst3_helper.exe
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/juce_vst3_helper.ilk
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/juce_vst3_helper.pdb
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/juce_VST3ManifestHelper.obj
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/resources.res
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/link.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/link.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/link.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/Reversed.1D87591C.tlog/ReversedDelay_VST3ManifestHelper.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/VST3 Manifest Helper/ReversedDelay_VST3ManifestHelper.log
+Builds/VisualStudio2017/x64/Debug/VST3/include_juce_audio_plugin_client_VST3.obj
+Builds/VisualStudio2017/x64/Debug/VST3/resources.res
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/link.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/link.delete.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/link.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/link.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/ReversedDelay_VST3.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/VST3/Reversed.4BFCFFEF.tlog/ReversedDelay_VST3.write.1u.tlog
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay.dll
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay.exp
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay.ilk
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay.lib
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay.pdb
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay.vst3/Contents/Resources/moduleinfo.json
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay.vst3/Contents/x86_64-win/ReversedDelay.vst3
+Builds/VisualStudio2017/x64/Debug/VST3/ReversedDelay_VST3.log
+JuceLibraryCode/include_juce_audio_basics.cpp
+JuceLibraryCode/include_juce_audio_basics.mm
+JuceLibraryCode/include_juce_audio_devices.cpp
+JuceLibraryCode/include_juce_audio_devices.mm
+JuceLibraryCode/include_juce_audio_formats.cpp
+JuceLibraryCode/include_juce_audio_formats.mm
+JuceLibraryCode/include_juce_audio_plugin_client_AAX.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_AAX.mm
+JuceLibraryCode/include_juce_audio_plugin_client_AAX_utils.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_ARA.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_AU_1.mm
+JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm
+JuceLibraryCode/include_juce_audio_plugin_client_AUv3.mm
+JuceLibraryCode/include_juce_audio_plugin_client_LV2.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_LV2.mm
+JuceLibraryCode/include_juce_audio_plugin_client_Standalone.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_Unity.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_VST2.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_VST2.mm
+JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp
+JuceLibraryCode/include_juce_audio_plugin_client_VST3.mm
+JuceLibraryCode/include_juce_audio_processors.cpp
+JuceLibraryCode/include_juce_audio_processors.mm
+JuceLibraryCode/include_juce_audio_processors_ara.cpp
+JuceLibraryCode/include_juce_audio_processors_lv2_libs.cpp
+JuceLibraryCode/include_juce_audio_utils.cpp
+JuceLibraryCode/include_juce_audio_utils.mm
+JuceLibraryCode/include_juce_core.cpp
+JuceLibraryCode/include_juce_core.mm
+JuceLibraryCode/include_juce_data_structures.cpp
+JuceLibraryCode/include_juce_data_structures.mm
+JuceLibraryCode/include_juce_events.cpp
+JuceLibraryCode/include_juce_events.mm
+JuceLibraryCode/include_juce_graphics.cpp
+JuceLibraryCode/include_juce_graphics.mm
+JuceLibraryCode/include_juce_gui_basics.cpp
+JuceLibraryCode/include_juce_gui_basics.mm
+JuceLibraryCode/include_juce_gui_extra.cpp
+JuceLibraryCode/include_juce_gui_extra.mm
+JuceLibraryCode/JuceHeader.h
+JuceLibraryCode/JucePluginDefines.h
+JuceLibraryCode/ReadMe.txt
+ReversedDelay.filtergraph
